@@ -29,6 +29,6 @@ Visualization of the distribution, the inter-relationship, the composition & com
 
 *Task_5:*
 
-Finally, by utilizing two new files ([m5_survey_data_demographics.csv](datasets/m5_survey_data_demographics.csv) & [m5_survey_data_technologies_normalised.csv](datasets/m5_survey_data_technologies_normalised.csv)) which were also modified subset of Stack Overflow survey dataset, a Dashboard was created through Cognos Dashboard Embedded (showing the ‘Current Technology Usage’, ‘Future Technology Usage’ & ‘Demographics’ in the three tabs, respectively.
+Finally, by utilizing two new files ([m5_survey_data_demographics.csv](datasets/m5_survey_data_demographics.csv) & [m5_survey_data_technologies_normalised.csv](datasets/m5_survey_data_technologies_normalised.csv)) which were also modified subset of Stack Overflow survey dataset, a [Dashboard](Week%205%20-%20M5_Dashboard.pdf) was created through Cognos Dashboard Embedded (showing the ‘Current Technology Usage’, ‘Future Technology Usage’ & ‘Demographics’ in the three tabs, respectively.
 
 Lastly, a [Report](Week%206%20-%20Capstone_Project_Reporting.pdf) of the results was created in order to be present the findings of the Data Analysis process. 
