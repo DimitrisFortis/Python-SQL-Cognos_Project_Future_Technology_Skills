@@ -33,7 +33,7 @@ Finally, by utilizing two new files ([m5_survey_data_demographics.csv](datasets/
 
 *Task_6:*
 
-Lastly, a [Report](6_Capstone_Project_Reporting.pdf) of the results was created in order to be present the findings of the Data Analysis process. 
+Lastly, a [Report](6_Capstone_Project_Reporting.pptx) of the results was created in order to be present the findings of the Data Analysis process. 
 
 
 *(**) Through Tasks 2 & 3, some visualizations were created using Plotly so as to add interactivity. Github does not support interactive notebooks therefore feel free to download the jupyter files & run them on your local machines.* 
