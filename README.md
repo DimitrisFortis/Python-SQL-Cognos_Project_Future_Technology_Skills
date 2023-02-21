@@ -13,7 +13,7 @@ A Data Analysis Project using Python, SQL and Cognos Analytics- This is the Caps
 
 *Task_1:* 
 
-Initiation of the Data Analysis process with Data collection through [APIs](1.1_Collecting_Jobs_data_Using_API.ipynb) and [Web Scraping](1.2_Web-Scraping.ipynb) (from Kaggle & GitHub respectivly);
+Initiation of the Data Analysis process with Data collection through [APIs](1.1_Collecting_Jobs_data_Using_API.ipynb) and [Web Scraping](1.2_Collecting_Jobs_Using_Web-Scraping.ipynb) (from Kaggle & GitHub respectivly);
 
 *Task_2:*
 
